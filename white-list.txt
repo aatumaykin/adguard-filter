@@ -1,0 +1,10 @@
+!
+! Title: Alexandr Tumaykin Whitelist
+!
+
+@@||2ip.me^$important
+@@||push.yandex.ru^$important
+@@||graph.whatsapp.com^$important
+@@||samokat.go.link^$important
+@@||tracking.megamarket.ru^$important
+@@||qastack.ru^$important
