@@ -8,3 +8,4 @@
 @@||samokat.go.link^$important
 @@||tracking.megamarket.ru^$important
 @@||qastack.ru^$important
+@@||sentry.io^$important
