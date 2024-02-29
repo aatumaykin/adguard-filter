@@ -9,3 +9,11 @@
 @@||tracking.megamarket.ru^$important
 @@||qastack.ru^$important
 @@||sentry.io^$important
+@@||broskokitchenplanner.com^$important
+@@||konstruktorkuhni.ru^$important
+@@||tanukiru.webim.ru^$important
+@@||api.pushwoosh.com^$important
+@@||graph.instagram.com^$important
+@@||reload.getsentry.net^$important
+@@||sentry-cdn.com^$important
+@@||alicdn.com^$important
