@@ -6,4 +6,3 @@
 ||baidu.com^$important
 ||msg-global.m.taobao.com^$important
 ||iclientgw.alipay.com^$important
-||gvt1.com^$important
